@@ -1,0 +1,11 @@
+[
+    {
+        "name"    : "Gabor Szabo",
+        "github"  : "szabgab",
+        "twitter" : "szabgab",
+        "urls" : {
+            "https://szabgab.com/" : "Home Page",
+            "https://pydigger.com/" : "PyDigger Project"
+        }
+    }
+]
