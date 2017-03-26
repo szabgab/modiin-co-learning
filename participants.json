@@ -7,5 +7,10 @@
             "https://szabgab.com/" : "Home Page",
             "https://pydigger.com/" : "PyDigger Project"
         }
-    }
+    },
+	    {
+			"name"    : "Evgeny Vainshtok",
+			"github"  : "johnikva"
+		}
+
 ]
