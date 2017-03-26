@@ -1,14 +1,14 @@
 [
     {
-        "name"    : "Gabor Szabo",
-        "github"  : "szabgab",
-        "twitter" : "szabgab",
-        "urls" : {
-            "https://szabgab.com/" : "Home Page",
-            "https://pydigger.com/" : "PyDigger Project"
+        "name":"Gabor Szabo",
+        "github":"szabgab",
+        "twitter":"szabgab",
+        "urls":{
+            "https://szabgab.com/":"Home Page",
+            "https://pydigger.com/":"PyDigger Project"
         }
     },
-	    {
+	  {
 			"name"    : "Evgeny Vainshtok",
 			"github"  : "johnikva"
 		},
@@ -16,7 +16,9 @@
         "name"    : "Yosef Levy",
         "github"  : "yosefl",
         "facebook" : "yosi.levy99@gmail.com"
-        }
+    },
+    {
+        "name":"Binyamin Kisch",
+        "github":"cjcj56"
     }
-
 ]
