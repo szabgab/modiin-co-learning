@@ -64,5 +64,13 @@
       "name"   : "Leora Betesh",
       "github" : "leora-betesh",
       "linkedin" : "linkedin.com/in/leorabetesh"
-    } 
+    },
+	{
+      "name"   : "Eli Adler",
+      "github" : "elidata"
+    } ,
+  {
+    "name": "Moti Rosenfeld",
+    "github": "rosenmor"
+  }
 ]
