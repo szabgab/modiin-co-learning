@@ -63,5 +63,9 @@
 	{
       "name"   : "Eli Adler",
       "github" : "elidata"
-    } 
+    } ,
+  {
+    "name": "Moti Rosenfeld",
+    "github": "rosenmor"
+  }
 ]
