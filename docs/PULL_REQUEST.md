@@ -1,8 +1,14 @@
 # Send a Pull-Request to a GitHub project
 
-* If you don't have yet, create an account on GitHub.
-* 'fork' this repository (see the green fork button on the GitHub page of the project)
-* 'clone' the forked repository to your local disk  `git clone ...`
+* If you don't have yet, create an account on [GitHub](https://github.com/).
+* We assume you have already [installed and configured git](docs/install_git.md) on your local machine.
+* Visit the GitHub page of the project. [project](https://github.com/szabgab/modiin-co-learning/). This is the full Git repository of the project.
+* 'fork' this repository: See the fork button on the GitHub page of the project. Assuming your username on GitHub is foobar, this will create a copy of the whole Git repository in your GitHub account and you'll have a URL: https://github.com/foobar/modiin-co-learning/ 
+* 'clone' the forked repository to your local disk.
+   * Open your terminal or Command Prompt if you are on Windows
+   * Change to a directory where you'd like to have a subdirectory for the project. e.g. I have a directory called `~/work` and inside I have a directory for each project. So I'd `cd ~/work` and then `git clone https://github.com/foobar/modiin-co-learning.git` 
+   * On Windows I have a directory called `c:\\work` so I `cd \work` and then run the clone command.
+   * In both cases it will create a subdirectory called 'modiin-co-learning' and will create a copy of the whole Git repository in that directory on your local machine.
 * Create a branch: `git checkout -b myname`
 * Add yourself to the '''participants.json''' file.
   * `name` and `github user ID` are required fields

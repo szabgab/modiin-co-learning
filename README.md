@@ -47,7 +47,17 @@ Version Control Systems in general have a couple of contributions to out life:
 
 # Tasks
 
-* [Send a Pull-request](docs/PULL_REQUEST.md) to a GitHub project
+Start by [Installing and configuring Git](docs/install_git.md) on your local machine.
+Then you need to learn Git. You can first play with it locally or you can jump ahead and try the first task to [Send a Pull-request](docs/PULL_REQUEST.md) to a GitHub project.
+
+A few resources to learn Git and GitHub are:
+  * [Git SCM](https://git-scm.com/)
+  * [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+  * [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+  * [How to Use Git and GitHub](https://classroom.udacity.com/courses/ud775)
+  * [Using GitHub](https://guides.github.com/activities/hello-world/)
+
+
 * [Send Pull-request for CodeAndTalk](docs/PULL_REQUEST_FOR_CAT.md)
 * Learn to [update a GitHub project](docs/UPDATE_PROJECT.md) after the original repo ('upstream') made progress
 * Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
@@ -74,14 +84,6 @@ Version Control Systems in general have a couple of contributions to out life:
 
 # Subjects (just a mix)
 
-* Using Git
-  * https://git-scm.com/
-  * [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-  * [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-  * [How to Use Git and GitHub](https://classroom.udacity.com/courses/ud775)
-
-* Using GitHub
-  * https://guides.github.com/activities/hello-world/
 * Writing Unit Tests
 * Configuring Travis-CI (Continuous Integration)
 * HTML
