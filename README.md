@@ -51,19 +51,28 @@ Start by [Installing and configuring Git](docs/install_git.md) on your local mac
 Then you need to learn Git. You can first play with it locally or you can jump ahead and try the first task to [Send a Pull-request](docs/PULL_REQUEST.md) to a GitHub project.
 
 A few resources to learn Git and GitHub are:
-  * [Git SCM](https://git-scm.com/)
-  * [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-  * [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-  * [How to Use Git and GitHub](https://classroom.udacity.com/courses/ud775)
-  * [Using GitHub](https://guides.github.com/activities/hello-world/)
+* [Git SCM](https://git-scm.com/)
+* [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+* [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+* [How to Use Git and GitHub](https://classroom.udacity.com/courses/ud775)
+* [Using GitHub](https://guides.github.com/activities/hello-world/)
 
+Once you have sent your first pull-request to our own project, you can go on and start contributing to other Open Source projects.
+The next task, still does not require programming skills yet. It is to [send Pull-request for CodeAndTalk](docs/PULL_REQUEST_FOR_CAT.md)
 
-* [Send Pull-request for CodeAndTalk](docs/PULL_REQUEST_FOR_CAT.md)
-* Learn to [update a GitHub project](docs/UPDATE_PROJECT.md) after the original repo ('upstream') made progress
-* Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
-* Take the [python-without-test](https://github.com/szabgab/co-learning-python-without-test) repository. Write a test, set up Travis, send PR (We will comment on the PR)
-* Hook up a project to [Travis-CI](docs/TRAVIS-CI.md)
-* Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
+You'll then have to learn to [update a GitHub project](docs/UPDATE_PROJECT.md) after the original repo ('upstream') made progress.
+You can then go on and contribute more to that project without programming.
+
+When you are readt to to do some programming the following tasks are suggested.
+Learn about Continuous Integration in general and [Travis-CI](docs/TRAVIS-CI.md) in particular.
+Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
+
+Then take the [python-without-test](https://github.com/szabgab/co-learning-python-without-test) repository. Write a test, set up Travis, send PR (We will comment on the PR)
+
+The next step is to visit https://pydigger.com/ list the most recently released modules that use GitHub but does not use Travis-CI.
+Pick one you feel is not too hard to test. Add a unit-test.  Hook it up to [Travis-CI](docs/TRAVIS-CI.md). Send a PR.
+
+Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
 
 # Learning objectives / Tracks
 
@@ -73,7 +82,7 @@ A few resources to learn Git and GitHub are:
 
 # List of project ideas that people can get involved
 
-* The projects of [Gabor](https://github.com/szabgab/) especially the https://pydigger.com/ and https://codeandtalk.com/ projects.
+* The projects of [Gabor](https://github.com/szabgab/) 
 * [HaSadna](http://www.hasadna.org.il/) on [GitHub](https://github.com/hasadna/)
 * Web Scraper to download gpx files from RunKeeper https://runkeeper.com/
 * Web Scraper to upload gpx files to WikiLoc https://www.wikiloc.com/
