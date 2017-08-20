@@ -31,14 +31,14 @@ We believe that working on Open Source and Free Software projects is both useful
 * Learn to [update a GitHub project](docs/UPDATE_PROJECT.md) after the original repo ('upstream') made progress
 * Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
 * Take the [python-without-test](https://github.com/szabgab/co-learning-python-without-test) repository. Write a test, set up Travis, send PR (We will comment on the PR)
-* Hook up a project to [Travis-CI](Travis-CI)
+* Hook up a project to [Travis-CI](docs/TRAVIS-CI.md)
 * Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
 
 # Learning objectives / Tracks
 
-* [Python Developer](Python)
-* [Web front-end developer](FrontEnd)
-* [DevOps Engineer](DevOps)
+* [Python Developer](docs/python.md)
+* [Web front-end developer](docs/front_end_developer.md)
+* [DevOps Engineer](docs/devops_engineer.md)
 
 # List of project ideas that people can get involved
 
