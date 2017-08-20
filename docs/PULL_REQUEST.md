@@ -19,4 +19,12 @@
 * Send a Pull-request with the changes (on GitHub)
 * Look at the results, check if the Travis-CI job was successful. If not, check why not, fix the problem, commit the changes, and push the new changes out to GitHub again.
 * Observe how someone sees the PR and how can that person react.
+* **_Once the pull request has been accepted and merged_**, delete the branch locally, and push the delete to your remote.  This will delete the remote branch as well.
+```
+   git branch -d <branchname>
+```
+
+```
+   git push origin :<branchname>
+```
 
