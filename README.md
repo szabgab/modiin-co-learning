@@ -1,9 +1,6 @@
 ### Status
 [![Build Status](https://travis-ci.org/szabgab/modiin-co-learning.png)](https://travis-ci.org/szabgab/modiin-co-learning)
 
-
-See our [wiki](https://github.com/szabgab/modiin-co-learning/wiki) pages for details.
-
 ### Goals and values
 
 Our goal is to improve our employability by helping each other learning new skills needed in the hi-tech world.
@@ -16,13 +13,37 @@ developers.
 
 We believe that working on Open Source and Free Software projects is both useful to us and a small contribution to make the world a better place.
 
-
 ### Among the skills you will learn are
 
 * Version control with Git and GitHub
 * Using Linux
 * Writing Unit and Integration Tests
 * Both back-end and front-end development.
+
+# Introduction
+
+In the hi-tech world and in the Open Source world programming sounds like the main thing while in fact there are plenty of other things one can do.
+Some of them might be even more valuable than the programming part.
+
+Neverthelese one of the main requirement from anyone in the hi-tech world is good communiation skill and ability to cooperate. Even if this is not
+explicitly emphasized by many organizations.
+
+When you join our meetings the first thing we usually do is have a conversation to learn a bit about your background and your goals to be able to
+direct you to task that fit you best. In this written format it won't work so we'll just have to go over some kind of logical order.
+
+The first thing you will need to learn, if you don't already know it, is using Git and GitHub for version control.
+
+There are plenty of Version Control Systems (VCS-es) out there, but the most popular, especially in the Open Source world is Git.
+It is a stand-alone VCS that you can use on your own computer alone, or you can use it internally in your company, or you can use a Cloud-based
+solution that provides hosting for your Git repository. GitHub is the most popular among those Cloud services.
+So to be clear: You can use Git on its own and you can use Git together with GitHub.
+
+Version Control Systems in general have a couple of contributions to out life:
+* They allow us to experiment with the files we have without the fear of "how to I get back to the previous state".
+* They allow us to look at the history of our development to see older versions of our project.
+* They allow us to locate the change that introduced a bug even if that was several weeks, months, or even years before we noticed the bug.
+* They make it easy to collaborate on the same project.
+
 
 # Tasks
 
