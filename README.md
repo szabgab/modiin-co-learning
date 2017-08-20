@@ -26,7 +26,7 @@ We believe that working on Open Source and Free Software projects is both useful
 
 # Tasks
 
-* [Send a Pull-request](PullRequest) to a GitHub project
+* [Send a Pull-request](docs/PULL_REQUEST.md) to a GitHub project
 * [Send Pull-request for CodeAndTalk](PullRequestForCodeAndTalk)
 * Learn to [update a GitHub project](UpdateProject) after the original repo ('upstream') made progress
 * Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
