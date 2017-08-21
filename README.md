@@ -110,4 +110,5 @@ Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
 
 # Articles
 * [A Beginner's Guide to Open Source by Alaina Kafkes](https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a)
+* [I made my first open source contribution within 200 days (and how you can too)](https://medium.freecodecamp.org/i-made-my-first-open-source-contribution-within-200-days-and-how-you-can-too-4d5bdbd63fad) by [Joe Previte](/jjprevite)
 
