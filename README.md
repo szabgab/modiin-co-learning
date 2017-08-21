@@ -108,3 +108,6 @@ Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
 # Podcasts
 * [CodeNewbie](http://www.codenewbie.org/) Stories from people on their coding journey.
 
+# Articles
+* [A Beginner's Guide to Open Source by Alaina Kafkes](https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a)
+
