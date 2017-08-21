@@ -101,7 +101,7 @@ Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
 * JQuery
 
 # Learning resources
-* https://www.freecodecamp.com/
+* [FreeCodeCamp](https://www.freecodecamp.com/)
 * [370 free online programming resources](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 * [EduMaven](https://edumaven.com/) training slides
 
