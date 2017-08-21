@@ -48,7 +48,7 @@ Version Control Systems in general have a couple of contributions to out life:
 # Tasks
 
 Start by [Installing and configuring Git](docs/install_git.md) on your local machine.
-Then you need to learn Git. You can first play with it locally or you can jump ahead and try the first task to [Send a Pull-request](docs/PULL_REQUEST.md) to a GitHub project.
+Then you need to learn Git. You can first play with it locally or you can jump ahead and try the first task to [Send a Pull-request](docs/pull_request.md) to a GitHub project.
 
 A few resources to learn Git and GitHub are:
 * [Git SCM](https://git-scm.com/)
@@ -58,13 +58,13 @@ A few resources to learn Git and GitHub are:
 * [Using GitHub](https://guides.github.com/activities/hello-world/)
 
 Once you have sent your first pull-request to our own project, you can go on and start contributing to other Open Source projects.
-The next task, still does not require programming skills yet. It is to [send Pull-request for CodeAndTalk](docs/PULL_REQUEST_FOR_CAT.md)
+The next task, still does not require programming skills yet. It is to [send Pull-request for CodeAndTalk](docs/pull_request_for_cat.md)
 
-You'll then have to learn to [update a GitHub project](docs/UPDATE_PROJECT.md) after the original repo ('upstream') made progress.
+You'll then have to learn to [update a GitHub project](docs/update_project.md) after the original repo ('upstream') made progress.
 You can then go on and contribute more to that project without programming.
 
 When you are readt to to do some programming the following tasks are suggested.
-Learn about Continuous Integration in general and [Travis-CI](docs/TRAVIS-CI.md) in particular.
+Learn about Continuous Integration in general and [Travis-CI](docs/travis-ci.md) in particular.
 Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
 
 Then take the [python-without-test](https://github.com/szabgab/co-learning-python-without-test) repository. Write a test, set up Travis, send PR (We will comment on the PR)
