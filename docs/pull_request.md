@@ -1,7 +1,7 @@
 # Send a Pull-Request to a GitHub project
 
 * If you don't have yet, create an account on [GitHub](https://github.com/).
-* We assume you have already [installed and configured git](docs/install_git.md) on your local machine.
+* We assume you have already [installed and configured git](install_git.md) on your local machine.
 * Visit the GitHub page of the project. [project](https://github.com/szabgab/modiin-co-learning/). This is the full Git repository of the project.
 * 'fork' this repository: See the fork button on the GitHub page of the project. Assuming your username on GitHub is foobar, this will create a copy of the whole Git repository in your GitHub account and you'll have a URL: https://github.com/foobar/modiin-co-learning/ 
 * 'clone' the forked repository to your local disk.
