@@ -1,3 +1,6 @@
+
+### Update your local Git repository from the central reposiotry of the project.
+
 * A project has a Github repository. e.g. https://github.com/szabgab/codeandtalk.com
 * You created a fork e.g. https://github.com/demo/codeandtalk.com   (if your GitHub username is demo)
 * You created a copy of the git repository on your own computer by running `git clone git@github.com:demo/codeandtalk.com.git`
@@ -10,4 +13,25 @@
 * `git remote add upstream https://github.com/szabgab/codeandtalk.com.git`
 * `git pull upstream main`
 * `git push`
+
+
+# Rebase your local branch and update a PR
+
+Update the main branch from upstream:
+```
+git checkout main
+git pull upstream main
+```
+
+Then rebase your branch fixing the conflict:
+
+```
+git checkout name-of-the-local-branch
+git rebase main
+```
+
+Then push out the branch using
+```
+git push --force
+```
 
