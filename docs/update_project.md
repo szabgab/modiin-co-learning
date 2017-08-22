@@ -30,6 +30,10 @@ git checkout name-of-the-local-branch
 git rebase main
 ```
 
+Git will tell you there is a conflict when you rebase.
+You should open the file with your editor, fix the conflict to whatever you think it should look like and then continue the rebase.
+
+
 Then push out the branch using
 ```
 git push --force
