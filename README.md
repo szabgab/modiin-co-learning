@@ -8,7 +8,7 @@ Our goal is to improve our employability by helping each other learning new skil
 We think mutual help and continuous education is key to our long-term success in this world.
 
 We think that that one of the best ways to learn is to help others to learn so from the beginning we expect our participants to help each other and especially help the newcomers.
-Our participants are diverse in their skillset and background from absolute beginners to seasoned
+Our participants are diverse in their skill-set and background from absolute beginners to seasoned
 developers.
 
 We believe that working on Open Source and Free Software projects is both useful to us and a small contribution to make the world a better place.
@@ -22,10 +22,10 @@ We believe that working on Open Source and Free Software projects is both useful
 
 # Introduction
 
-In the hi-tech world and in the Open Source world programming sounds like the main thing while in fact there are plenty of other things one can do.
+In the hi-tech world and in the Open Source world programming sounds like the only important thing while in fact there are plenty of other things one can do.
 Some of them might be even more valuable than the programming part.
 
-Neverthelese one of the main requirement from anyone in the hi-tech world is good communiation skill and ability to cooperate. Even if this is not
+Nevertheless one of the main requirement from anyone in the hi-tech world is good communication skill and ability to cooperate. Even if this is not
 explicitly emphasized by many organizations.
 
 When you join our meetings the first thing we usually do is have a conversation to learn a bit about your background and your goals to be able to
@@ -63,7 +63,7 @@ The next task, still does not require programming skills yet. It is to [send Pul
 You'll then have to learn to [update a GitHub project](docs/update_project.md) after the original repo ('upstream') made progress.
 You can then go on and contribute more to that project without programming.
 
-When you are readt to to do some programming the following tasks are suggested.
+When you are ready to do some programming the following tasks are suggested.
 Learn about Continuous Integration in general and [Travis-CI](docs/travis-ci.md) in particular.
 Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
 
