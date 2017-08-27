@@ -20,60 +20,6 @@ We believe that working on Open Source and Free Software projects is both useful
 * Writing Unit and Integration Tests
 * Both back-end and front-end development.
 
-# Introduction
-
-In the hi-tech world and in the Open Source world programming sounds like the only important thing while in fact there are plenty of other things one can do.
-Some of them might be even more valuable than the programming part.
-
-Nevertheless one of the main requirement from anyone in the hi-tech world is good communication skill and ability to cooperate. Even if this is not
-explicitly emphasized by many organizations.
-
-When you join our meetings the first thing we usually do is have a conversation to learn a bit about your background and your goals to be able to
-direct you to task that fit you best. In this written format it won't work so we'll just have to go over some kind of logical order.
-
-The first thing you will need to learn, if you don't already know it, is using Git and GitHub for version control.
-
-There are plenty of Version Control Systems (VCS-es) out there, but the most popular, especially in the Open Source world is Git.
-It is a stand-alone VCS that you can use on your own computer alone, or you can use it internally in your company, or you can use a Cloud-based
-solution that provides hosting for your Git repository. GitHub is the most popular among those Cloud services.
-So to be clear: You can use Git on its own and you can use Git together with GitHub.
-
-Version Control Systems in general have a couple of contributions to out life:
-* They allow us to experiment with the files we have without the fear of "how to I get back to the previous state".
-* They allow us to look at the history of our development to see older versions of our project.
-* They allow us to locate the change that introduced a bug even if that was several weeks, months, or even years before we noticed the bug.
-* They make it easy to collaborate on the same project.
-
-
-# Tasks
-
-Start by [Installing and configuring Git](docs/install_git.md) on your local machine.
-Then you need to learn Git. You can first play with it locally or you can jump ahead and try the first task to [Send a Pull-request](docs/pull_request.md) to a GitHub project.
-
-A few resources to learn Git and GitHub are:
-* [Git SCM](https://git-scm.com/)
-* [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-* [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-* [How to Use Git and GitHub](https://classroom.udacity.com/courses/ud775)
-* [Using GitHub](https://guides.github.com/activities/hello-world/)
-
-Once you have sent your first pull-request to our own project, you can go on and start contributing to other Open Source projects.
-The next task, still does not require programming skills yet. It is to [send Pull-request for CodeAndTalk](docs/pull_request_for_cat.md)
-
-You'll then have to learn to [update a GitHub project](docs/update_project.md) after the original repo ('upstream') made progress.
-You can then go on and contribute more to that project without programming.
-
-When you are ready to do some programming the following tasks are suggested.
-Learn about Continuous Integration in general and [Travis-CI](docs/travis-ci.md) in particular.
-Fork the project [python-with-test](https://github.com/szabgab/co-learning-python-with-test), set up Travis-CI and submit a PR from a branch. (We we will comment on the PR)
-
-Then take the [python-without-test](https://github.com/szabgab/co-learning-python-without-test) repository. Write a test, set up Travis, send PR (We will comment on the PR)
-
-The next step is to visit https://pydigger.com/ list the most recently released modules that use GitHub but does not use Travis-CI.
-Pick one you feel is not too hard to test. Add a unit-test.  Hook it up to [Travis-CI](docs/TRAVIS-CI.md). Send a PR.
-
-Add Unit tests to a project (Python, PHP, Ruby, Perl, JavaScript, C#, Java)
-
 # Learning objectives / Tracks
 
 * [Python Developer](docs/python.md)
