@@ -13,6 +13,14 @@ developers.
 
 We believe that working on Open Source and Free Software projects is both useful to us and a small contribution to make the world a better place.
 
+### Intro
+
+When you join our meetings the first thing we usually do is have a conversation to learn a bit about your background and your goals to be able to
+direct you to task that fit you best.
+
+The first thing you need to learn, if you don't already know it, is using Git and GitHub for version control.
+As a participant of our meetings you will get free access to the book [Collaborative Development using Git and GitHub](https://leanpub.com/collab-dev-git).
+
 ### Among the skills you will learn are
 
 * Version control with Git and GitHub
