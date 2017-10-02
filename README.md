@@ -16,6 +16,4 @@ See [our web site](http://osdc.org.il/) for details
 * Web Scraper to download gpx files from RunKeeper https://runkeeper.com/
 * Web Scraper to upload gpx files to WikiLoc https://www.wikiloc.com/
 * Analyze gpx files (speed, how steep the road was etc.), find routes that are crossing, find routes that are near-by.
-* [Language connector](https://github.com/poplardown/langconnector), the project of [Nastasya](https://github.com/poplardown)
 * [Porting Graphite to Python 3](https://github.com/graphite-project/graphite-web/issues/750)
-
