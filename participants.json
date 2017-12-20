@@ -98,5 +98,10 @@
   {
 	  "name":"Moti Rosenfeld",
 	  "github":"rosenmor"
-  }
+  },
+	{
+		"name"    : "Rani Amit Bar-On",
+		"github"  : "ranibaron",
+		"twitter" : "ranibaron"
+	}
 ]
