@@ -3,6 +3,9 @@
 
 See [our web site](http://osdc.org.il/) for details
 
+See https://github.com/collab-dev/participants for participants.
+
+
 # Learning objectives / Tracks
 
 * [Python Developer](docs/python.md)
